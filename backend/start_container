@@ -1,0 +1,1 @@
+docker run -d --name my-static-server -e PORT=8080 -p 8080:8080 -v ./server8080:/app static-python-server
