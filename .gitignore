@@ -1,1 +1,3 @@
-/target
+load-balancer/target
+backend/target
+backend/venv/
